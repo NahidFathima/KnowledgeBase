@@ -1,0 +1,15 @@
+SYNTHEA DATA —-----> MySQL Database
+
+Open XAMPP : 
+	START MY SQL & APACHE
+
+OPEN SQL Workbench : 
+	Click on ‘root’ to access database
+	On the Navigator panel click, right-click -> Create Schema
+	Name it : ‘patient_data’
+
+OPEN Command Prompt : 
+	Check python version - ‘pthyon -- version’
+	Then type ‘pip install pymysql’
+
+ 
